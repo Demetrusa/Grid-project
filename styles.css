@@ -14,7 +14,6 @@ img {
   width: 100%;
   height: auto;
 }
-
 h1,
 h2,
 h3 {
@@ -83,3 +82,13 @@ p {
   margin: 0;
   padding: 0;
 }
+#section-b li {
+  margin-bottom: 1em;
+  background-color: #fff;
+  color: #333;
+}
+.card-content {
+  padding: 1.5em;
+}
+
+/* section C */
