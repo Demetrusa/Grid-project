@@ -108,3 +108,16 @@ p {
 #section-d .box:first-child {
   background: #2690d4;
 }
+
+/* Footer */
+
+#main-footer {
+  padding: 2em;
+  background: #333;
+  color: #fff;
+  text-align: center;
+}
+#main-footer a {
+  color: #2690d4;
+  text-decoration: none;
+}
