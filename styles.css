@@ -92,3 +92,9 @@ p {
 }
 
 /* section C */
+
+#section-c {
+  background-color: #fff;
+  color: #333;
+  padding: 2em;
+}
