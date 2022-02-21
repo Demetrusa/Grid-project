@@ -91,10 +91,20 @@ p {
   padding: 1.5em;
 }
 
-/* section C */
+/* section-C */
 
 #section-c {
   background-color: #fff;
   color: #333;
   padding: 2em;
+}
+
+/* section-D */
+
+#section-d .box {
+  padding: 2em;
+  color: #fff;
+}
+#section-d .box:first-child {
+  background: #2690d4;
 }
